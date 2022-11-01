@@ -1,3 +1,9 @@
+![GitHub All Releases](https://img.shields.io/badge/score-100-green)
+![GitHub All Releases](https://img.shields.io/badge/language-C-blue)
+![GitHub All Releases](https://img.shields.io/badge/C-92.9-9cf)
+![GitHub All Releases](https://img.shields.io/badge/Makefile-7.1-9cf)
+
+
 # philosophers_42
 The dinning philosophers problem solved using mutex and threads
 
